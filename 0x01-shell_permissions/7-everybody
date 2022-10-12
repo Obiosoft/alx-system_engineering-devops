@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod ugoa+x 7-everybody
+chmod ugoa+x hello
